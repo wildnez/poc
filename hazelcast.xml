@@ -69,7 +69,7 @@
         <provider-mode>LOCAL_AND_CACHED_CLASSES</provider-mode>
         <class-cache-mode>OFF</class-cache-mode>
         <blacklist-prefixes>com.foo</blacklist-prefixes>
-        <whitelist-prefixes>huobi.hazelcast</whitelist-prefixes>
+        <whitelist-prefixes>poc.hazelcast</whitelist-prefixes>
         <!-- <provider-filter>HAS_ATTRIBUTE:lite</provider-filter> -->
     </user-code-deployment>
    
